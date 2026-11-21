@@ -4,7 +4,7 @@ import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
 
-const SITE_URL = "https://premium-route-diagnosis.vercel.app";
+const SITE_URL = "https://premier-route-diagnosis.vercel.app";
 
 export const metadata: Metadata = {
   title: "28卒就活診断｜11/30締切『プレミアルート』あなたの必要度＆危険度は？",
