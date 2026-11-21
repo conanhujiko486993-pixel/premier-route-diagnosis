@@ -5,7 +5,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 // 実際にデプロイする、またはデプロイ済みのVercelのURL
-const SITE_URL = "https://あなたのVercelのURL.vercel.app"; // ★ここに実際のURLを貼ってください（末尾の / は不要）
+const SITE_URL = "https://premium-route-diagnosis.vercel.app"; // ★ここに実際のURLを貼ってください（末尾の / は不要）
 
 export const metadata: Metadata = {
   title: "28卒就活診断｜11/30締切『プレミアルート』あなたの必要度＆危険度は？",
