@@ -218,7 +218,7 @@ export default function PremierRouteDiagnosis() {
           </div>
           <div className="flex items-center gap-1.5 text-xs bg-rose-600/90 text-white px-2.5 py-1 rounded-full font-bold animate-pulse">
             <Clock className="w-3.5 h-3.5" />
-            <span>2次締切：11/20(金) 迫る！</span>
+            <span>最終締切：11/30(月) 迫る！</span>
           </div>
         </div>
       </header>
